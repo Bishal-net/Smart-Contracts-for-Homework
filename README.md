@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/9a1ed077-2290-4ba7-b093-bda510d0e4f9)
-# Educhain
-# HomeworkGrader
+# HomeworkGrader EduChain Project
 
 ## Vision
 
