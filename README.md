@@ -1,5 +1,4 @@
-
----
+![image](https://github.com/user-attachments/assets/9a1ed077-2290-4ba7-b093-bda510d0e4f9)
 
 # HomeworkGrader
 
@@ -30,6 +29,9 @@ This decentralized approach aims to create a transparent, fair, and incentivized
 ## Smart Contract Address
 
 - **Deployed Contract Address:** 0x447df4f5ba1a257664ba831c75b1446108644348
+- 
+- ![image](https://github.com/user-attachments/assets/e17b91e7-d827-4efd-8ba0-59b6b2a30cff)
+
 
 ## Features
 
